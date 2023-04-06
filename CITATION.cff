@@ -1,0 +1,12 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Lei
+    given-names: Yunlong
+    orcid: https://orcid.org/0000-0001-6273-1085
+  - family-names: Viparelli
+    given-names: Enrica
+    orcid: https://orcid.org/0000-0001-6733-9664
+title: YlLeo/1D-pool-riffle-hydro-morphodynamic-model:  1D-pool-riffle-hydro-morphodynamic-model
+version: v1.0
+date-released: 2023-04-06
